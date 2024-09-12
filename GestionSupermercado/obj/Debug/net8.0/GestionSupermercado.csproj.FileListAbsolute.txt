@@ -1,0 +1,14 @@
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\bin\Debug\net8.0\GestionSupermercado.exe
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\bin\Debug\net8.0\GestionSupermercado.deps.json
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\bin\Debug\net8.0\GestionSupermercado.runtimeconfig.json
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\bin\Debug\net8.0\GestionSupermercado.dll
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\bin\Debug\net8.0\GestionSupermercado.pdb
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\GestionSupermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\GestionSupermercado.AssemblyInfoInputs.cache
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\GestionSupermercado.AssemblyInfo.cs
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\GestionSupermercado.csproj.CoreCompileInputs.cache
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\GestionSupermercado.dll
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\refint\GestionSupermercado.dll
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\GestionSupermercado.pdb
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\GestionSupermercado.genruntimeconfig.cache
+C:\Users\atarico.FRSN\Desktop\Prog2TM\supermercado\GestionSupermercado\GestionSupermercado\obj\Debug\net8.0\ref\GestionSupermercado.dll
