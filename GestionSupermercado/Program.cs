@@ -17,6 +17,7 @@ namespace GestionSupermercado
             foreach (var producto in productosSupermercado)
             {
                 producto.MostrarDetalles();
+                //Esto es un mensaje para probar cambios en el repo
             }
 
         }
